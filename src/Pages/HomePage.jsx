@@ -15,6 +15,14 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
 const Home = () => {
   return (
     <>
@@ -118,7 +126,7 @@ const Home = () => {
               <AccordionTrigger className="font-bold text-1xl cursor-pointer hover:no-underline">
                 What is PartyVibe?
               </AccordionTrigger>
-              <AccordionContent >
+              <AccordionContent>
                 PartyVibe is a modern platform designed to bring people together
                 through fresh, engaging, and interactive experiences. Whether
                 it’s events, networking, or community building, we keep the vibe

@@ -20,45 +20,7 @@ const FooterTab = () => {
           </div>
         </div>
         <div className=" py-10 px-10">
-          <section className="flex justify-between ">
-            <div>
-              <h5>Popular Features</h5>
-              <ul>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-              </ul>
-            </div>
-            <div>
-              <h5>Solutions</h5>
-              <ul>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-                <li>2</li>
-              </ul>
-            </div>
-            <div>
-              <h5>Company</h5>
-            </div>
-            <div>
-              <h5>Customers</h5>
-            </div>
-          </section>
+        
         </div>
         <div className="foot  py-10 px-10 text-center">
           <h5>Party Next Door</h5>
